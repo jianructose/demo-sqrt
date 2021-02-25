@@ -10,6 +10,7 @@ Options:
 
 from docopt import docopt
 import math
+import pandas as pd
 
 opt = docopt(__doc__)
 
